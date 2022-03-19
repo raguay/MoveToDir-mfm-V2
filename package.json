@@ -1,0 +1,24 @@
+{
+  "name": "movetodir-modalfilemanagerextension",
+  "version": "1.0.0",
+  "description": "Modal File Manager extension to move selected files to the directory in the current cursor.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Modal",
+    "File",
+    "Manager",
+    "JavaScript"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmextension": {
+    "name": "Move To Dir - Modal File Manager Extension",
+    "description": "Move selected files to a directory in same pane.",
+    "type": 0,
+    "github": "",
+    "main": "main.js"
+  }
+}
